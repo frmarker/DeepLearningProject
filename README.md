@@ -1,2 +1,2 @@
 # DeepLearningProject
-DETECTION OF AI-GENERATED IMAGES USING FINE-TUNED CNNS WITH INTERPRETABILITY TECHNIQUES
+Detection of AI-generated images using fine-tuned CNNs  with Interpretability Techniques
