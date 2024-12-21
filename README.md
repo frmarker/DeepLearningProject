@@ -53,7 +53,7 @@ This notebook:
 - Model architecture:
   - Input layer
   - Hidden layers with ReLU activation
-  - Output layer with Softmax activation
+  - Output layer with probabilitic output due to the loss function
 - Metrics: Accuracy and loss are tracked during training.
 ## Results
 Both models include visualizations of:
